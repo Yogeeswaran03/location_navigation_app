@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # plattertech
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# location_navigation_app
+>>>>>>> 87022d3c44edd5b970d3f0f3f761070eed4b8b1d
